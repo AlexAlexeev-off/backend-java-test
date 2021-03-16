@@ -6,7 +6,6 @@ import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 import retrofit2.converter.jackson.JacksonConverterFactory;
 
-import static okhttp3.logging.HttpLoggingInterceptor.*;
 import static okhttp3.logging.HttpLoggingInterceptor.Level.BODY;
 
 @UtilityClass
